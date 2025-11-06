@@ -41,3 +41,4 @@
    php artisan key:generate
    php artisan serve
    ```
+   Go inside the .env file and change the DB name to **`test`**
