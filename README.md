@@ -32,10 +32,12 @@
 2. Create a database named **`test`** in **phpMyAdmin**, and import the **`test.sql`** file from the **`DB`** folder.
 3. Clone the project
     ```bash
-    git clone https://github.com/talha-51/single-page-shop```
+    git clone https://github.com/talha-51/single-page-shop
+    ```
 4. Run the following commands one by one:
    ```bash
    composer install
    cp .env.example .env
    php artisan key:generate
-   php artisan serve```
+   php artisan serve
+   ```
