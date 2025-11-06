@@ -1,5 +1,17 @@
 # single-page-shop
 
+Features: 
+
+1. Front-end tempate mastering
+2. Back-end tempate (Admin panel) mastering
+3. User CRUD
+4. Product CRUD
+5. Customer single page CRUD using Bootstrap Modal
+6. DataTables integration
+
+
+To Run The Project
+
 Requirements:
 
 PHP version- ^8.2
