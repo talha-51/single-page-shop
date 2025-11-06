@@ -37,8 +37,14 @@
 4. Run the following commands one by one:
    ```bash
    composer install
+   ```
+   ```bash
    cp .env.example .env
+   ```
+   Go inside the .env file and change the DB name to **test**
+   ```bash
    php artisan key:generate
+   ```
+   ```bash
    php artisan serve
    ```
-   Go inside the .env file and change the DB name to **`test`**
